@@ -1,0 +1,4 @@
+TODO:
+
+1) Figure out issue with float values on arduino.
+2) Fix issue displaying and updating lcd screen using u8g2lib.
